@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Outline",
+  "version": "1.0.0",
+  "description": "Converts the current page into a outline.com parsed page",
+  "icons": {
+    "48": "static/icon-48.png",
+    "96": "static/icon-96.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "static/icon-48.png",
+      "96": "static/icon-96.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ]
+}
