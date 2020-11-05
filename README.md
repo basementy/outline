@@ -26,4 +26,4 @@ The extensions have two types of usage:
 
 ## Observation
 
-I'm not from to the outline.com team, just wanted create a extension that quickly open the current tab in outline.
+I'm not from to the outline.com team, just wanted to create a extension that quickly open the current tab in outline.
