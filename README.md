@@ -4,7 +4,7 @@ A simple extension that converts the current tab into a outline.com page.
 
 ## Installation
 
-First of all download and extract the zip source code of this repository.
+First of all [download](https://github.com/biewxw/outline/archive/1.0.0.zip) and extract the zip source code of this repository.
 
 - Go to the browser extensions
 - Enable the developer mode
